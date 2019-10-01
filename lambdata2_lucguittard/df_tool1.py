@@ -1,5 +1,5 @@
 """
-pack2 - a limited set of df engineering tools
+a limited set of df engineering tools
 """
 
 import pandas as pd 
